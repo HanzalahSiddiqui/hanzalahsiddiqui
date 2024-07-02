@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hanzalah Siddiqui</h1>
 <h3 align="center">A passionate Website Developer.</h3>
 
-- 🔭 I’m currently working on [my client's Website](https://www.utawireless.com/)
-
-- 🌱 I’m currently learning **ReactJs and Laravel.**
+- 🔭 I’m currently working on [my client's Website](https://www.utasystems.com/)
 
 - 💬 Ask me about **Anything about html, css, js and php. Also I can assist in Wordpress/Shopify website development.**
 
